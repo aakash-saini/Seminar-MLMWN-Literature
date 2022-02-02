@@ -1,2 +1,2 @@
 # Seminar-MLMWN-Literature
-[] This repository has all the papers surveyed by me during the seminar.
+This repository has all the papers surveyed by me during the seminar.
